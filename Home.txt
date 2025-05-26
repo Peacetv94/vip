@@ -1,7 +1,7 @@
 <div id="main-content">
     <div class="video-container">
         <div class="video-wrapper">
-            <img alt="Video Placeholder" id="video-placeholder" src="https://peacetvid.github.io/peacetv/img/Home2.png" style="width: 100%; height: 100%; object-fit: cover;">
+            <img alt="Video Placeholder" id="video-placeholder" src="https://peacetvid.github.io/peacetv/img/Home.png" style="width: 100%; height: 100%; object-fit: cover;">
             <div id="player"></div> <!-- Pindahkan player ke dalam video-wrapper -->
             <iframe id="video-iframe" src="about:blank" width="100%" height="100%" frameborder="0" allowfullscreen scrolling="no" gesture="media" allow="encrypted-media" style="display:none;"></iframe>
             <div class="countdown-wrapper" id="countdown" style="display:none;">
@@ -15,19 +15,7 @@
         <!-- Menu-wrapper di atas -->
         <div class="menu-wrapper-top">
 	  <div class="jalan"><div class="marq."><div style="background: #001e28; border-top: px solid #ccc;; border-radius: ; color: white; font-weight: bold; margin: auto; max-width: 100%; padding: 0px 0px;"><div style="margin: auto; max-width: 100%;"><table style="margin: 0px; padding: 0px; width: 100%;">  
-<tbody><tr><td style="height: 32px; background:rgba(15,147,134,0.774);/*background:#a20c1a;*/ border-bottom-right-radius: 0px; border-top-right-radius: 10px; border: 1px solid #535354; font-weight: bold; font-size:12px; color: #fff; text-align: center; width:25%; /*width: 33.4%;*/"><script>
-function tS(){ x=new Date(); x.setTime(x.getTime()); return x; } 
-function lZ(x){ return (x>9)?x:'0'+x; } 
-function tH(x){ if(x==0){ x=00; } return (x>24)?x-=24:x; } 
-function dT(){ if(fr==0){ fr=1; document.write('<span id="tP">'+eval(oT)+'</span>'); } document.getElementById('tP').innerHTML=eval(oT); setTimeout('dT()',1000); } 
-function aP(x){ return (x>11)?'':''; } 
-var fr=0,oT="lZ(tH(tS().getHours()))+':'+lZ(tS().getMinutes())+':'+lZ(tS().getSeconds())+' '+aP(tS().getHours())";
-
-
-document.write('');
-
-</script><script language="JavaScript">dT()</script>
-
+<tbody><tr><td style="height: 32px; background:rgba(15,147,134,0.774);/*background:#a20c1a;*/ border-bottom-right-radius: 0px; border-top-right-radius: 10px; border: 1px solid #535354; font-weight: bold; font-size:12px; color: #fff; text-align: center; width:25%; /*width: 33.4%;*/"><scp></scp>
  <div class="display-date" style="font-size:10px; font-weight: none !important;">
   <span id="day">day</span>,
   <span id="daynum">00</span>
